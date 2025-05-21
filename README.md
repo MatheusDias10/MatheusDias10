@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 My name is Matheus Dias!
 
-<!--
-**MatheusDias10/MatheusDias10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Data Engineer, currently working with Python & SQL!  
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Brazil, São Paulo
+* 💻  See my LinkedIn at [matheusdias](https://www.linkedin.com/in/matheus-dias-71982b333/)
+* ✉️  You can contact me at [contato.mthdias@gmail.com](mailto:contato.mthdias@gmail.com)
+* 🧠  I am currently studying and doing projects focusing on data, pipelines and automation.
+* 👨‍🏫  I like to talk about technology and I'm always updating myself on the subject.
+* 💬 Ask me anything! I'll love to help you!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
+<br/>  
+<br/>  
+
+<a target="_blank" href="https://www.linkedin.com/in/matheus-dias-71982b333/">
+  <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=212831"/>
+</a>
