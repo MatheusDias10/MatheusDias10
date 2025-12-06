@@ -5,7 +5,7 @@
 * 🌍  I'm based in Brazil, São Paulo
 * 💻  See my LinkedIn at [matheusdias](https://www.linkedin.com/in/matheus-dias-71982b333/)
 * ✉️  You can contact me at [contato.mthdias@gmail.com](mailto:contato.mthdias@gmail.com)
-* 🧠  I am currently studying and doing projects focusing on data, pipelines and automation.
+* 🧠 I am currently studying and doing projects focusing on data, pipelines and automation, expanding my skills into backend development using Java.
 * 👨‍🏫  I like to talk about technology and I'm always updating myself on the subject.
 * 💬 Ask me anything! I'll love to help you!
 
