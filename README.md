@@ -1,43 +1,46 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffc8&height=180&section=header&text=Matheus+Dias&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+# Matheus Dias
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29;Hello,+Be-Welcome!+:%29;)](https://git.io/typing-svg)
+**Desenvolvedor Back-End em formação · Python, Java e Dados**
 
-<br/>
+Estudo e construo projetos com Python, SQL e Java, com foco em Back-End e Dados. Hoje aprofundo Java e Spring Boot, enquanto continuo desenvolvendo pipelines de dados, web scraping e automações.
 
-# Hi 👋 My name is Matheus Dias!
+Busco estágio em **Back-End** ou **Dados**.
 
-### I'm a student currently learning Data concepts and Backend Development, studying Python, SQL and Java while building projects to develop real technical experience!!
+---
 
-* 🌍  I'm based in Brazil, São Paulo
-* 💻  See my LinkedIn at [Matheus Silva Dias](https://www.linkedin.com/in/matheus-dias-71982b333/)
-* ✉️  You can contact me at [contato.mthdias@gmail.com](mailto:contato.mthdias@gmail.com)
-* 🧠 I am currently studying and doing projects focusing on data, pipelines and automation, expanding my skills into backend development using Java.
-* 👨‍🏫  I like to talk about technology and I'm always updating myself on the subject.
-* 💬 Ask me anything! I'll love to help you!
+## Tecnologias
 
-<br/>  
+- **Linguagens:** Python · Java · SQL · JavaScript
+- **Back-End:** Spring Boot · APIs REST · FastAPI
+- **Dados:** Pandas · NumPy · Selenium · BeautifulSoup · SQLAlchemy
+- **Bancos de dados:** SQL Server · MySQL · PostgreSQL
+- **Ferramentas:** Git · GitHub · Docker
 
-  ##
-<div style="display: inline_block">
-  <h3>Main skills</h3>
-  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="HTML" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  
- 
-</div>
+---
 
-  ##
-<div align="left" >
-  <h3>Get in touch!</h3>
-  <a href = "mailto:contato.mthdias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a target="_blank" href="https://www.linkedin.com/in/matheus-dias-71982b333/">
-  <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=212831"/>
-</a>
-</div>
+## Projetos
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffc8&height=150&section=footer"/>
+### [github-profile-pipeline](https://github.com/MatheusDias10/github-profile-pipeline)
+Pipeline ETL em Python que consome a API do GitHub com autenticação segura, trata erros e faz parsing de JSON, transforma os dados com Pandas, carrega em SQL Server e exibe tudo em uma interface web.
+`Python` `Pandas` `SQLAlchemy` `SQL Server` `Streamlit`
+
+### [IMDb-WebScraping-Project](https://github.com/MatheusDias10/IMDb-WebScraping-Project)
+Extração dos dados do Top 250 filmes do IMDb com Selenium e BeautifulSoup, tratamento com Pandas e geração de um dataset pronto para análise.
+`Python` `Selenium` `BeautifulSoup` `Pandas`
+
+### EyeGenesis · projeto em equipe
+Óculos inteligente para navegação assistiva de pessoas cegas ou com baixa visão. Usa visão computacional e IA para detectar obstáculos e orientar o usuário em tempo real. Escolhido o **melhor projeto do curso PROPROFISSÃO** no segundo semestre de 2025.
+`Java` `Spring Boot` `React` `Python` `YOLO` `MQTT` `Raspberry Pi`
+
+---
+
+## Experiência
+
+**Fiserv · Aprendiz em TEF (Transferência Eletrônica de Fundos)**
+Suporte técnico a integradores e lojistas por chat e chamada, análise de logs de transações para identificar a causa de falhas e conduzir a correção. Vivência diária com o funcionamento de pagamentos digitais.
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/matheusdias10/) · [contato.mthdias@gmail.com](mailto:contato.mthdias@gmail.com)
